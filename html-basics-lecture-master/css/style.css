@@ -1,0 +1,18 @@
+body {
+   display: flex;
+   min-height: 100vh;
+   flex-direction: column;
+ }
+
+ main {
+   flex: 1 0 auto;
+ }
+ a{
+ 	font-size: 32px;
+ }
+.line { 
+    border-left: 2px solid #EE6E73; /* Параметры линии */ 
+    margin-left: 20px; /* Отступ слева */
+    padding-left: 10px; /* Расстояние от линии до текста */ 
+   }
+  
